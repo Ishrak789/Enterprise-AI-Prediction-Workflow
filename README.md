@@ -40,9 +40,6 @@ User Question → OpenAI/LangChain Router → Validation Layer → Forecasting A
 ## Example Prompt
 "What will be the demand for Product X in January 2025?"
 
-## Resume Bullet
-Solved the gap between Snowflake data and non-technical business users by designing an OpenAI/LangChain workflow that translated natural-language questions into structured API calls for price and demand forecasting.
-
 Deployed 2 reusable FastAPI/uvicorn prediction services with 5 validation controls, showing how Snowflake-backed data products can support reliable AI workflows and executive decision-making.
 
 ## What I Learned
